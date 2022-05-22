@@ -1,0 +1,16 @@
+{
+  "name": "ipfs-sitios-de-la-memoria",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Permanent storage of Uruguayan dictatorship documents at IPFS",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "web3.storage": "^3.1.0"
+  },
+  "author": "GonzaDDV & LichuAcu",
+  "license": "(Apache-2.0 AND MIT)"
+}
